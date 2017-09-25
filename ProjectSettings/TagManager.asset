@@ -8,6 +8,7 @@ TagManager:
   - Floor
   - Teleport
   - PlayerBox
+  - Button
   layers:
   - Default
   - TransparentFX
